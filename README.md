@@ -31,6 +31,7 @@ List entries are classified in levels that describe how it works without JS:
 * [GameFaqs](https://gamefaqs.gamespot.com/)
 * [GNU](http://gnu.org)
 * [Google](https://www.google.com/)
+* [Pinterest](https://www.pinterest.co.uk/)
 * [Reddit](http://reddit.com)
 * [Torrentz2](https://torrentz2.eu/)
 * [Wikipedia](http://wikipedia.org)
