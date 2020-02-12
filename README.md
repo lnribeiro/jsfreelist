@@ -7,7 +7,7 @@ Feel free to contribute!
 
 To browse the internet without javascript, we recommend:
 
-Disable Javascript [[Firefox]](https://addons.mozilla.org/en-US/firefox/addon/disable-javascript/) [[Chrome]](https://chrome.google.com/webstore/detail/disable-javascript/jfpdlihdedhlmhlbgooailmfhahieoem): Most user-friendly, but less efficient. Go to options, turn **Default state** as **JS Off** and **Disable behavior** by **By tab**.
+Disable Javascript [[Firefox]](https://addons.mozilla.org/en-US/firefox/addon/disable-javascript/) [[Chrome]](https://chrome.google.com/webstore/detail/disable-javascript/jfpdlihdedhlmhlbgooailmfhahieoem): Most user-friendly option, but less efficient. Recommended for casual users who want zero headaches because they don't want to mess with whitelists and blacklists, so a site is either functional without js and that's fine or it's not and must be whitelisted temporarily, bad code et al. Go to options, turn **Default state** as **JS Off** and **Disable behavior** by **By tab**.
 
 LibreJS [[Firefox]](https://www.gnu.org/software/librejs/): Blocks nonfree nontrivial javascript while allowing opensource and simple codes to run, avoiding a lot of trouble without breaking many sites. For advanced users that want more control or casual users who don't want to don't want a lot of stress and still have full freedom.
 
