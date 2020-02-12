@@ -41,6 +41,7 @@ List entries are classified in levels that describe how it works without JS:
 
 # :first_quarter_moon: Level 1: Broken features
 
+* [Amazon](https://amazon.com)
 * [Bandcamp](https://bandcamp.com/)
 * [BBC](https://www.bbc.com/) **[alt]**
 * [Dictionary.com](https://www.dictionary.com/)
@@ -52,7 +53,9 @@ List entries are classified in levels that describe how it works without JS:
 * [IMDB](https://www.imdb.com/)
 * [Last.fm](http://last.fm)
 * [Netflix](https://www.netflix.com/)
+* [QQ](http://qq.com)
 * [Research Gate](https://www.researchgate.net)
+* [Tmall](http://tmall.com)
 * [The Intercept](https://theintercept.com)
 * [Thesaurus](https://thesaurus.com/)
 * [Twitter](http://twitter.com) **[[alt](http://mobile.twitter.com/)]**
