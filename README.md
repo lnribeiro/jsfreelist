@@ -42,17 +42,28 @@ List entries are classified in levels that describe how it works without JS:
 
 * [Bandcamp](https://bandcamp.com/)
 * [BBC](https://www.bbc.com/) **[alt]**
+* [Dictionary.com](https://www.dictionary.com/)
 * [DuckDuckGo](https://duckduckgo.com/) **[[alt](https://duckduckgo.com/html)]**
 * [Github](http://github.com)
 * [Gmail](http://gmail.com)  **[alt]**
+* [Google Scholar](https://scholar.google.com)
 * [IMDB](https://www.imdb.com/)
 * [Last.fm](http://last.fm)
+* [Netflix](https://www.netflix.com/)
+* [Research Gate](https://www.researchgate.net)
+* [The Intercept](https://theintercept.com)
+* [Thesaurus](https://thesaurus.com/)
 * [Twitter](http://twitter.com) **[[alt](http://mobile.twitter.com/)]**
 
 # :new_moon: Level 0: Impossible to use
 
+* [Accuweather](https://www.accuweather.com/)
+* [Dropbox](https://www.dropbox.com/)
+* [Google Calendar](https://calendar.google.com/)
 * [Google Maps](http://maps.google.com)
+* [Google Docs](https://docs.google.com/)
 * [Google Translate](http://translate.google.com)
+* [LinkedIn](https://www.linkedin.com)
 * [OpenStreetMap](https://www.openstreetmap.org/)
 * [Trello](http://trello.com)
 * [Youtube](http://youtube.com)
