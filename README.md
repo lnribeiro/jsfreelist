@@ -1,7 +1,7 @@
 
 # jsfreelist
 
-This is a list of websites that work without JS. Feel free to contribute!
+This is a list of websites that work without JS. **Keep in mind that "Fully functional" websites aren't bugfree, but are fully functional.** Feel free to contribute!
 
 To browse the internet without javascript, we recommend:
 
