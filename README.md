@@ -33,6 +33,7 @@ List entries are classified in levels that describe how it works without JS:
 * [GameFaqs](https://gamefaqs.gamespot.com/)
 * [GNU](http://gnu.org)
 * [Google](https://www.google.com/)
+* [Hacker News](https://news.ycombinator.com/news)
 * [Pinterest](https://www.pinterest.co.uk/)
 * [Reddit](http://reddit.com)
 * [Torrentz2](https://torrentz2.eu/)
@@ -46,6 +47,7 @@ List entries are classified in levels that describe how it works without JS:
 * [DuckDuckGo](https://duckduckgo.com/) **[[alt](https://duckduckgo.com/html)]**
 * [Github](http://github.com)
 * [Gmail](http://gmail.com)  **[alt]**
+* [Google News](https://news.google.com/)
 * [Google Scholar](https://scholar.google.com)
 * [IMDB](https://www.imdb.com/)
 * [Last.fm](http://last.fm)
@@ -54,17 +56,23 @@ List entries are classified in levels that describe how it works without JS:
 * [The Intercept](https://theintercept.com)
 * [Thesaurus](https://thesaurus.com/)
 * [Twitter](http://twitter.com) **[[alt](http://mobile.twitter.com/)]**
+* [Yahoo](http://yahoo.com)
 
 # :new_moon: Level 0: Impossible to use
 
 * [Accuweather](https://www.accuweather.com/)
+* [Baidu](https://www.baidu.com/)
 * [Dropbox](https://www.dropbox.com/)
+* [Facebook](https://www.facebook.com)
 * [Google Calendar](https://calendar.google.com/)
 * [Google Maps](http://maps.google.com)
 * [Google Docs](https://docs.google.com/)
 * [Google Translate](http://translate.google.com)
 * [LinkedIn](https://www.linkedin.com)
 * [OpenStreetMap](https://www.openstreetmap.org/)
+* [Outlook](https://outlook.live.com)
+* [Spotify](https://open.spotify.com/)
 * [Trello](http://trello.com)
+* [Vimeo](https://vimeo.com/)
 * [Youtube](http://youtube.com)
 
