@@ -17,9 +17,11 @@ To browse the internet without javascript, we recommend:
 
 List entries are classified in levels that describe how it works without JS:
 
-* :new_moon: **Level 0:** Impossible to use
-* :first_quarter_moon: **Level 1:** Broken features*
-* :full_moon: **Level 2:** Fully functional
+:new_moon: **Level 0:** Impossible to use
+
+:first_quarter_moon: **Level 1:** Broken features*
+
+:full_moon: **Level 2:** Fully functional
 
 >\* Includes websites with **alternative** or **legacy** versions, tagged with **[alt]**. Links are provided whenever possible.
 
