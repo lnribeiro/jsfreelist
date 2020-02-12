@@ -1,7 +1,7 @@
 
 # jsfreelist
 
-This is a list of websites that work without JS. Feel free to contribute!
+![This is a list of websites that work without JS. Feel free to contribute!](https://files.catbox.moe/3s3fm7.jpg)
 
 :warning: **Keep in mind that "Fully functional" websites aren't bugfree, but are fully functional.**
 
