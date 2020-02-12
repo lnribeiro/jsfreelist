@@ -1,37 +1,40 @@
 
 # jsfreelist
 
-List of websites that may or may not work without JS.
+# List of websites that may or may not work without JS.
 
 Feel free to contribute!
 
 ## Functionality levels
 
-List entries are classified according to how it looks without JS:
+List entries are classified in levels that describe how it works without JS:
 
-- Totally functional
-- Some features are broken*
-- Impossible to use
+:new_moon: **Level 0:** Impossible to use
+:first_quarter_moon: **Level 1:** Broken features*
+:full_moon: **Level 2:** Fully functional
 
-\* Includes websites with alternative or legacy versions
+>\* Includes websites with alternative or legacy versions, tagged with [alt]
 
-## Totally functional
+## List
 
-* [Wikipedia](http://wikipedia.org)
+# :full_moon: Level 2: Totally functional
+
+* [BBC](http://www.bbc.com)
+* [Github](http://github.com)
 * [GNU](http://gnu.org)
 * [Reddit](http://reddit.com)
-* [Github](http://github.com)
-* [BBC](http://www.bbc.com)
+* [Wikipedia](http://wikipedia.org)
 
-## Broken features
+# :first_quarter_moon: Level 1: Broken features
 
-* [Gmail](http://gmail.com)  [alternative available]
-* [Twitter](http://twitter.com) [[legacy](http://mobile.twitter.com/)]
+* [Gmail](http://gmail.com)  **[alt]**
 * [Last.fm](http://last.fm)
+* [Twitter](http://twitter.com) **[[alt](http://mobile.twitter.com/)]**
 
-## Impossible to use
+# :new_moon: Level 0: Impossible to use
 
-* [Youtube](http://youtube.com)
-* [Trello](http://trello.com)
 * [Google Maps](http://maps.google.com)
 * [Google Translate](http://translate.google.com)
+* [Trello](http://trello.com)
+* [Youtube](http://youtube.com)
+
