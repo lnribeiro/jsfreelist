@@ -1,9 +1,15 @@
 
 # jsfreelist
 
-# List of websites that may or may not work without JS.
+# List of websites that work without JS.
 
 Feel free to contribute!
+
+To browse the internet without javascript, we recommend:
+
+Disable Javascript [[Firefox]](https://addons.mozilla.org/en-US/firefox/addon/disable-javascript/) [[Chrome]](https://chrome.google.com/webstore/detail/disable-javascript/jfpdlihdedhlmhlbgooailmfhahieoem): Most user-friendly, but less efficient. Go to options, turn **Default state** as **JS Off** and **Disable behavior** by **By tab**.
+
+LibreJS [[Firefox]](https://www.gnu.org/software/librejs/): Blocks nonfree nontrivial javascript while allowing opensource and simple codes to run, avoiding a lot of trouble without breaking many sites. For advanced users that want more control or casual users who don't want to don't want a lot of stress and still have full freedom.
 
 ## Functionality levels
 
