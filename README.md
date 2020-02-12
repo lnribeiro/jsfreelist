@@ -1,9 +1,7 @@
 
 # jsfreelist
 
-# List of websites that work without JS.
-
-Feel free to contribute!
+This is a list of websites that work without JS. Feel free to contribute!
 
 To browse the internet without javascript, we recommend:
 
@@ -25,9 +23,9 @@ List entries are classified in levels that describe how it works without JS:
 
 >\* Includes websites with **alternative** or **legacy** versions, tagged with **[alt]**. Links are provided whenever possible.
 
-## List
+## List of websites that work without JS
 
-# :full_moon: Level 2: Totally functional
+# :full_moon: Level 2: Fully functional
 
 * [BBC](http://www.bbc.com)
 * [Magnet Links & Torrents](https://www.btsay.org/)
