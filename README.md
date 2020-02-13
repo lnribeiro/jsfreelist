@@ -7,9 +7,9 @@
 
 To browse the internet without javascript, we recommend:
 
-**Disable Javascript** [[Firefox]](https://addons.mozilla.org/en-US/firefox/addon/disable-javascript/) [[Chrome]](https://chrome.google.com/webstore/detail/disable-javascript/jfpdlihdedhlmhlbgooailmfhahieoem): Most user-friendly option, but least efficient. Recommended for users who don't want permanent whitelists and blacklists, so a site will either work without js at all or must be whitelisted temporarily, with good and bad code running. Go to options, turn **Default state** as **JS Off** and **Disable behavior** by **By tab**.
+**Disable Javascript** [[Firefox]](https://addons.mozilla.org/en-US/firefox/addon/disable-javascript/) [[Chrome]](https://chrome.google.com/webstore/detail/disable-javascript/jfpdlihdedhlmhlbgooailmfhahieoem): Most user-friendly option, but least efficient. Recommended for users who don't want permanent whitelists and blacklists, so a site will either work without js at all or must be whitelisted temporarily, with good and bad code running. Go to options, turn **Default state** as **JS Off** and **Disable behavior** as **By tab**.
 
-**LibreJS** [[Firefox]](https://www.gnu.org/software/librejs/): Blocks nonfree nontrivial javascript while allowing opensource and simple codes to run, avoiding a lot of trouble without breaking many sites. For advanced users that want more control or casual users who don't want to don't want a lot of stress and still have full freedom.
+**LibreJS** [[Firefox]](https://www.gnu.org/software/librejs/): Blocks nonfree nontrivial javascript while allowing opensource and simple codes to run, avoiding a lot of trouble without breaking many sites. For advanced users that want more control but not too much work and casual users who don't want a lot of stress but still want full freedom.
 
 **NoScript** [[Firefox]](https://addons.mozilla.org/en-US/firefox/addon/noscript/) [[Chrome]](https://chrome.google.com/webstore/detail/noscript/doojmbjmlfjjnbmnoijecmcbfeoakpjm): Works better on Firefox. Blocks javascript, flash and other executable content. Extremely powerful heavy use of white/blacklisting for advanced users, but also very user-friendly if you have the patience to understand and use it.
 
@@ -78,5 +78,5 @@ List entries are classified in levels that describe how it works without JS:
 * [Spotify](https://open.spotify.com/)
 * [Trello](http://trello.com)
 * [Vimeo](https://vimeo.com/)
-* [Youtube](http://youtube.com)
+* [YouTube](http://youtube.com)
 
