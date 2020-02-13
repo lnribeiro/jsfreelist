@@ -78,5 +78,5 @@ List entries are classified in levels that describe how it works without JS:
 * [Spotify](https://open.spotify.com/)
 * [Trello](http://trello.com)
 * [Vimeo](https://vimeo.com/)
-* [YouTube](http://youtube.com)
+* [YouTube](http://youtube.com) (Try [Invidious](https://invidio.us/) instead)
 
