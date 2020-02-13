@@ -34,6 +34,7 @@ List entries are classified in levels that describe how it works without JS:
 * [GNU](http://gnu.org)
 * [Google](https://www.google.com/)
 * [Hacker News](https://news.ycombinator.com/news)
+* [Invidious](https://invidio.us/) (YouTube mirror)
 * [Pinterest](https://www.pinterest.co.uk/)
 * [Reddit](http://reddit.com)
 * [Torrentz2](https://torrentz2.eu/)
