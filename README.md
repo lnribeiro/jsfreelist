@@ -39,7 +39,7 @@ List entries are classified in levels that describe how it works without JS:
 * [Reddit](http://reddit.com)
 * [Torrentz2](https://torrentz2.eu/)
 * [Wikipedia](http://wikipedia.org)
-* [Yandex][https://yandex.ru/)
+* [Yandex](https://yandex.ru/)
 
 # :first_quarter_moon: Level 1: Broken features
 
