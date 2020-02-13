@@ -39,9 +39,11 @@ List entries are classified in levels that describe how it works without JS:
 * [Reddit](http://reddit.com)
 * [Torrentz2](https://torrentz2.eu/)
 * [Wikipedia](http://wikipedia.org)
+* [Yandex][https://yandex.ru/)
 
 # :first_quarter_moon: Level 1: Broken features
 
+* [4chan](https://4chan.org/)
 * [Amazon](https://amazon.com)
 * [Bandcamp](https://bandcamp.com/)
 * [BBC](https://www.bbc.com/) **[alt]**
@@ -56,6 +58,7 @@ List entries are classified in levels that describe how it works without JS:
 * [Netflix](https://www.netflix.com/)
 * [QQ](http://qq.com)
 * [Research Gate](https://www.researchgate.net)
+* [StartPage Images](https://www.startpage.com/sp/search)
 * [Tmall](http://tmall.com)
 * [The Intercept](https://theintercept.com)
 * [Thesaurus](https://thesaurus.com/)
@@ -66,6 +69,7 @@ List entries are classified in levels that describe how it works without JS:
 
 * [Accuweather](https://www.accuweather.com/)
 * [Baidu](https://www.baidu.com/)
+* [DuckDuckGo Images](https://duckduckgo.com/?q=&ia=images&iax=images)
 * [Dropbox](https://www.dropbox.com/)
 * [Facebook](https://www.facebook.com)
 * [Google Calendar](https://calendar.google.com/)
@@ -76,7 +80,9 @@ List entries are classified in levels that describe how it works without JS:
 * [OpenStreetMap](https://www.openstreetmap.org/)
 * [Outlook](https://outlook.live.com)
 * [Spotify](https://open.spotify.com/)
+* [StartPage](https://www.startpage.com/sp/search)
 * [Trello](http://trello.com)
 * [Vimeo](https://vimeo.com/)
+* [Yandex Images](https://yandex.ru/images/)
 * [YouTube](http://youtube.com) (Try [Invidious](https://invidio.us/) instead)
 
